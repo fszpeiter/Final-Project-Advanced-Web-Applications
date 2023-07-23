@@ -8,3 +8,4 @@ Some issues/improvements to be done:
 
 **Initial interface screenshot**
 
+![image](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/d74e201a-97ae-4517-9c30-fd1854c002f4)
