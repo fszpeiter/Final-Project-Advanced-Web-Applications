@@ -5,7 +5,7 @@
 
 <h1>Name of project: Beer Me Up!</h1> 
 
-
+![Uploading beer.gif…]()
 
 
 <h2> Personal goal(s) </h2>
