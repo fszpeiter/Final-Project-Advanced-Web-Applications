@@ -41,6 +41,9 @@ During the development of the project, I encountered the following consideration
 
 While working on this project and during Advanced Web Application course I learned crucial web development concepts such as:
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 - [x] Programming languages concepts , syntax and general logic.
 - [X] User experience (UX).
 - [X] How to create a creative and proper README.md file (can´t deny it looks good and fun).
