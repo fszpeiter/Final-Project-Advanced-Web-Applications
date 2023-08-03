@@ -52,7 +52,7 @@ This was what I was capable of improving since the last version of the project. 
 
 
 
-> Thanks a lot for the great academic turn and lessons, professor. 
+***Thanks a lot for the lessons and great academic term, professor Marks. Hope to see you again/soon :) ***
 
 
 
