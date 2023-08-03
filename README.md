@@ -12,11 +12,11 @@ With this web application project I wanted the explore front end concepts utiliz
 
 <h2> Name the Technologies I used (Languages, Frameworks, Libraries, Programs, Other people's code) you intended to use. </h2>
 
-<p>Programming Languages Used: HTML, CSS and Javascript</p>
+Programming Languages Used: HTML, CSS and Javascript
 
-<p>Frameworks: Bootstrap</p>
+Frameworks: Bootstrap
 
-<p>Programs: Visual Studio Code, Git/Github</p>
+Programs: Visual Studio Code, Git/Github
 
 <h2>Some very valid considerations/improvements to be done during the development of the project:</h2>
 
