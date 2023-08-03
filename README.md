@@ -3,7 +3,8 @@
 
 # Final Project Advanced Web-Applications : Beer Me Up!
 
-![CheersJosephDonovanGIF](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/08890b21-1a34-44d3-b58c-60a98777f96d)
+![XxGIF](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/14e29151-5727-4e5f-ae32-1fb2277f52e8)
+
 
 
 <h2> Personal goal(s) </h2>
