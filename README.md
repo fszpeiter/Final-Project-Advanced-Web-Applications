@@ -21,9 +21,9 @@ Programming languages used: HTML, CSS, and JavaScript.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-Frameworks: Bootstrap
+Frameworks: Bootstrap, JQuery
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery)](https://skillicons.dev)
 
 Programs: Visual Studio Code, Git/GitHub
 
