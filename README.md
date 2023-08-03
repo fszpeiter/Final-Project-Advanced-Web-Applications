@@ -35,7 +35,7 @@ During the development of the project, I encountered the following consideration
 
 1.	Further improvements to a more fluid user experience with modern web framework.
 2.	Fix some front-end spacing issues of user interface. 
-3.  For a future project, maybe store the data utilizing a SQL database solution. 
+3.  For a future project, maybe store the data utilizing a SQL database solution.
 
 <h2>Conclusions</h2>
 
