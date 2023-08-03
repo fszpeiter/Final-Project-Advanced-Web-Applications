@@ -33,9 +33,9 @@ PS: Icons for this README.md file taken from the website/source https://skillico
 
 During the development of the project, I encountered the following considerations/improvements for a nearby future/next web development project:
 
-1.	Improvements to a more fluid user experience with modern web framework.
+1.	Further improvements to a more fluid user experience with modern web framework.
 2.	Fix some front-end spacing issues of user interface. 
-3.	Add JavaScript code to input message boxes of success when I add new data.
+3.  For a future project, maybe store the data utilizing a SQL database solution. 
 
 <h2>Conclusions</h2>
 
