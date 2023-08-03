@@ -11,7 +11,7 @@ With this web application project, I wanted to explore front end concepts utiliz
 
 <h2>Code goal(s)/Ditto on SCOPE</h2>
 
-Final project for advanced web applications. The idea of the project is to create a working beer stock management system. It´s a dynamic paged web application that has a hamburger menu for navigation and when the user inputs all the data about a particular beer, that beer is stored on a dynamic list. Also, when the beer is added to the list by clicking on the 'Add beer' button, the application has a confirmation pop up box that confirms that the informed beer has been stored on the beer list.
+Final project for advanced web applications. The idea of the project is to create a working beer stock management system named Beer Me Up!. It´s a dynamic paged web application that has a hamburger menu for navigation and when the user inputs all the data about a particular beer, that beer is stored on a dynamic list. Also, when the beer is added to the list by clicking on the 'Add beer' button, the application has a confirmation pop up box that confirms that the informed beer has been stored on the beer list.
 
 <h2> Name of the technologies I used (Languages, Frameworks, Libraries, Programs, Other people's code)</h2>
 
