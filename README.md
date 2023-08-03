@@ -39,7 +39,22 @@ During the development of the project, I encountered the following consideration
 
 <h2>Conclusions</h2>
 
-**Final interface screenshot**
+While working on this project and during Advanced Web Application course I learned crucial web development concepts such as:
+
+- [x] Programming languages concepts , syntax and general logic.
+- [X] User experience (UX).
+- [X] How to create a creative and proper README.md file (can´t deny it looks good and fun).
+- [X] Overall lots of web developemnt knowledge that will be useful for my future carrer as an I.T professional. 
+
+This was what I was capable of improving since the last version of the project. Above, the final screenshot of the app interface:
+
+<3>Final interface screenshot</h3>
+
+
+
+> Thanks a lot for the great academic turn and lessons, professor. 
+
+
 
 
 
