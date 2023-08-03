@@ -3,7 +3,7 @@
 
 # Final Project Advanced Web-Applications : Beer Me Up!
 
-![Uploading beer.gif…]()
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <h2> Personal goal(s) </h2>
   
