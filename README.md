@@ -3,7 +3,8 @@
 
 # Final Project Advanced Web-Applications : Beer Me Up!
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](<iframe src="https://giphy.com/embed/ietk9bNd6xIsOdXJHo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/beer-buffalo-wild-wings-bdubs-ietk9bNd6xIsOdXJHo">via GIPHY</a></p>
+)
 
 <h2> Personal goal(s) </h2>
   
