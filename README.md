@@ -27,7 +27,7 @@ Programs: Visual Studio Code, Git/GitHub
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,git,github)](https://skillicons.dev)
 
-PS: Icons for this README.md file taken from the website/source https://skillicons.dev/ :D
+PS: Icons for this README.md file taken from the website/source https://skillicons.dev/ 😀
 
 <h2>Some very valid considerations/improvements to be done during the development of the project</h2>
 
