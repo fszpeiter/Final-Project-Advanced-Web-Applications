@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Hard work and unknown territory was stepped on by myself when developing this project. Please, handle it with care professor Marks 🥲
+
 # Final-Project-Advanced-Web-Applications
 
 <h1>Name of project: Beer Me Up!</h1> 
@@ -26,12 +29,13 @@ Programs: Visual Studio Code, Git/GitHub
 
 PS: Icons for this README.md file taken from the website/source https://skillicons.dev/ :D
 
-<h2>Some very valid considerations/improvements to be done during the development of the project:</h2>
+<h2>Some very valid considerations/improvements to be done during the development of the project</h2>
 
-1.	Improve to a more fluid user experience with modern web framework.
-2.	Fix some front-end spacing issues of user interface.
-3.	There is a small bug that is not returning the proper input text value. Will ask the professor.
-4.	Add JavaScript code to input message boxes of success when I add new data.
+During the development of the project, I encountered the following considerations/improvements for a nearby future/next web development project:
+
+1.	Improvements to a more fluid user experience with modern web framework.
+2.	Fix some front-end spacing issues of user interface. 
+3.	Add JavaScript code to input message boxes of success when I add new data.
 
 <h2>Conclusions</h2>
 
