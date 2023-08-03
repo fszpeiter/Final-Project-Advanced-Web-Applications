@@ -29,7 +29,7 @@ Programs: Visual Studio Code, Git/GitHub
 
 PS: Icons for this README.md file taken from the website/source https://skillicons.dev/ 😀
 
-<h2>Some very valid considerations/improvements during the development of the project</h2>
+<h2>Some valid considerations/improvements during the development of the project</h2>
 
 During the development of the project, I encountered the following considerations/improvements for a nearby future/next web development project:
 
