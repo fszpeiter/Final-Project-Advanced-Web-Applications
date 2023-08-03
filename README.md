@@ -48,7 +48,7 @@ While working on this project and during Advanced Web Application course I learn
 
 This was what I was capable of improving since the last version of the project. Above, the final screenshot of the app interface:
 
-<3>Final interface screenshot</h3>
+<h3>Final interface screenshot</h3>
 
 
 
