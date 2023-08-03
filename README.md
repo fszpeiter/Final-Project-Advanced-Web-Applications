@@ -6,7 +6,7 @@
   
 With this web application project I wanted the explore front end concepts utilizing modern web programming languages, frameworks and version control softwares like Git/Github. By creating a reasonably working web-application that has a clean and functional visual representation of an web-app, I could greatly increase my practical knowledge about the previous mentioned skills. 
 
-<h2>Code goal(s)/Ditto on SCOPE<h2>
+<h2>Code goal(s)/Ditto on SCOPE</h2>
 
 Final project for advanced web applications. The idea of the project is to create a working beer stock management system.
 
