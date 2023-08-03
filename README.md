@@ -18,6 +18,8 @@ Programming Languages Used: HTML, CSS and Javascript
 
 Frameworks: Bootstrap
 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
 Programs: Visual Studio Code, Git/Github
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,git,github)](https://skillicons.dev)
