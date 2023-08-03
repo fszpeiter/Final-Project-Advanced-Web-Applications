@@ -24,6 +24,7 @@ Programs: Visual Studio Code, Git/GitHub
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,git,github)](https://skillicons.dev)
 
+PS: Skills icons got from the website/source https://skillicons.dev/ :D
 
 <h2>Some very valid considerations/improvements to be done during the development of the project:</h2>
 
