@@ -14,11 +14,13 @@ Final project for advanced web applications. The idea of the project is to creat
 
 Programming Languages Used: HTML, CSS and Javascript
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
+
 Frameworks: Bootstrap
 
 Programs: Visual Studio Code, Git/Github
 
-![image](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/59c955e0-973f-4e22-895a-e6d1dcb81603)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
 
 
 <h2>Some very valid considerations/improvements to be done during the development of the project:</h2>
