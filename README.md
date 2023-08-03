@@ -14,7 +14,7 @@ Final project for advanced web applications. The idea of the project is to creat
 
 Programming Languages Used: HTML, CSS and Javascript
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 Frameworks: Bootstrap
 
