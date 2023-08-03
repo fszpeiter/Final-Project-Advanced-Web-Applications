@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Hard work and unknown territory was stepped on by myself when developing this project. Please, handle it with care professor Marks. 🥲
+> Hard work and unknown territory was stepped on by me while developing this project. Please, handle it with care professor Marks. 🥲
 
 # Final-Project-Advanced-Web-Applications
 
