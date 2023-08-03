@@ -12,7 +12,7 @@ Final project for advanced web applications. The idea of the project is to creat
 
 <h2> Name of the technologies I used (Languages, Frameworks, Libraries, Programs, Other people's code)</h2>
 
-Programming Languages Used:HTML, CSS, and JavaScript.
+Programming Languages Utilized: HTML, CSS, and JavaScript.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
