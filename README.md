@@ -41,10 +41,10 @@ During the development of the project, I encountered the following consideration
 
 While working on this project and during Advanced Web Application course I learned crucial web development concepts such as:
 
--Programming languages concepts, syntax, and general logic.
--User experience (UX).
--How to create a creative and proper README.md file (can´t deny it looks good and fun).
--Overall lots of webs development knowledge that will be useful for my future career as an I.T professional. 
+- Programming languages concepts, syntax, and general logic.
+- User experience (UX).
+- How to create a creative and proper README.md file (can´t deny it looks good and fun).
+- Overall lots of webs development knowledge that will be useful for my future career as an I.T professional. 
 
 This was what I was capable of improving since the last version of the project. Above, the final screenshot of the app interface:
 
