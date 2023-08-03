@@ -41,10 +41,10 @@ During the development of the project, I encountered the following consideration
 
 While working on this project and during Advanced Web Application course I learned crucial web development concepts such as:
 
-- [x] Programming languages concepts , syntax and general logic.
-- [X] User experience (UX).
-- [X] How to create a creative and proper README.md file (can´t deny it looks good and fun).
-- [X] Overall lots of web developemnt knowledge that will be useful for my future carrer as an I.T professional. 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> Programming languages concepts , syntax and general logic.
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> User experience (UX).
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> How to create a creative and proper README.md file (can´t deny it looks good and fun).
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />[X] Overall lots of web developemnt knowledge that will be useful for my future carrer as an I.T professional. 
 
 This was what I was capable of improving since the last version of the project. Above, the final screenshot of the app interface:
 
