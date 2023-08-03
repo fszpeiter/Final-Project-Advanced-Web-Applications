@@ -1,12 +1,9 @@
 > [!IMPORTANT]
 > Hard work and unknown territory were stepped on by me while developing this project. Please, handle it with care professor Marks. 🥲
 
-# Final-Project-Advanced-Web-Applications
-
-<h1>Name of project: Beer Me Up!</h1> 
+# Final Project Advanced Web-Applications : Beer Me Up!
 
 ![Uploading beer.gif…]()
-
 
 <h2> Personal goal(s) </h2>
   
