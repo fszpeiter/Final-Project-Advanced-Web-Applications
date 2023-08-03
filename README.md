@@ -5,6 +5,9 @@
 
 <h1>Name of project: Beer Me Up!</h1> 
 
+![Uploading CheersJosephDonovanGIF.gif…]()
+
+
 <h2> Personal goal(s) </h2>
   
 With this web application project, I wanted to explore front end concepts utilizing modern web programming languages, frameworks, and version control software like Git/GitHub. By creating a reasonably working web-application that has a clean and functional visual representation of a web-app, I could greatly increase my practical knowledge about the previously mentioned skills. I did not intend to tackle a lot regarding databases to be connected to this final app such I was focusing much more on the front-end side of things. But maybe try to connect both worlds of web development on a near future.
