@@ -8,7 +8,7 @@ With this web application project I wanted the explore front end concepts utiliz
 
 <h2>Code goal(s)/Ditto on SCOPE<h2>
 
-<p>Final project for advanced web applications. The idea of the project is to create a working beer stock management system.</p>
+Final project for advanced web applications. The idea of the project is to create a working beer stock management system.
 
 <h2> Name the Technologies I used (Languages, Frameworks, Libraries, Programs, Other people's code) you intended to use. </h2>
 
@@ -25,20 +25,10 @@ Programs: Visual Studio Code, Git/Github
 3. There is a small bug that is not returning the proper input text value. Will ask the professor.
 4. Add javascript code to input message boxes of success when i add new data.
 
+<h2>Conclusions</h2>
 
-In regard to any of the above — did these change over the course of your project, if so, how?
-Finally, give some conclusions. Tell me where everything ended up for you. Especially please include where you might go FROM here.
-2 to 4 pages should work here.
-
-Final project for advanced web applications. The idea of the project is to create a working beer stock management system. I still haven't decided on a proper/more creative name for the application. 
-Some improvements to be done:
-
-1. Improve to a more fluid user experience with modern web framework.
-2. Fix some front end spacing issues of user interface.
-3. There is a small bug that is not returning the proper input text value. Will ask the professor.
-4. Add javascript code to input message boxes of success when i add new data.
+**Final interface screenshot**
 
 
-**Initial interface screenshot**
 
-![image](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/d74e201a-97ae-4517-9c30-fd1854c002f4)
+
