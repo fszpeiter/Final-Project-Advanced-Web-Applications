@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > Hard work and unknown territory were stepped on by me while developing this project. Please, handle it with care professor Marks. 🥲
 
-# Final Project Advanced Web-Applications : Beer Me Up!
+# Final Project Advanced Web Applications: Beer Me Up!
 
 ![XxGIF](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/14e29151-5727-4e5f-ae32-1fb2277f52e8)
 
