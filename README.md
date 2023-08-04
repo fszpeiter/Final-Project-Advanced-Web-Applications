@@ -1,5 +1,5 @@
-> [!IMPORTANT]
-> Hard work and unknown territory were stepped on by me while developing this project. Please, handle it with care professor Marks. 🥲
+> [!NOTE]
+>  Lots of uncharted territory was stepped on to get the ideas running. At least for me during this project. Hope you like it, Professor Marks. 🤞
 
 # Final Project Advanced Web Applications: Beer Me Up!
 
@@ -11,13 +11,17 @@ With this web application project, I wanted to explore front end concepts utiliz
 
 <h2>Code goal(s)/Ditto on SCOPE</h2>
 
-Final project for advanced web applications. The idea of the project is to create a working beer stock management system named Beer Me Up!. It´s a dynamic paged web application that has a hamburger menu for navigation and when the user inputs all the data about a particular beer, that beer is stored on a dynamic list. Also, when the beer is added to the list by clicking on the 'Add beer' button, the application has a confirmation pop up box that confirms that the informed beer has been stored on the beer list.
+Final project for advanced web applications. The idea of the project is to create a working beer stock management system named Beer Me Up! It´s a dynamic paged web application that has a hamburger menu for navigation and when the user inputs all the data about a particular beer, that beer is stored on a dynamic list on another page. Also, when the beer is added to the list by clicking on the 'Add beer' button, the application has a confirmation pop up box that confirms that the informed beer has been stored on the beer list.
 
 <h2> Name of the technologies I used (Languages, Frameworks, Libraries, Programs, Other people's code)</h2>
 
-Programming languages used: HTML, CSS, and JavaScript.
+Markup language used: HTML5
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+
+Programming languages used: JavaScript 
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 Frameworks: Bootstrap, JQuery
 
@@ -34,8 +38,10 @@ PS: Icons for this README.md file taken from the website/source https://skillico
 During the development of the project, I encountered the following considerations/improvements for a nearby future/next web development project:
 
 1.	Further improvements to a more fluid user experience with modern web framework.
-2.	Fix some front-end spacing issues of user interface. 
-3.  For a future project, maybe store the data utilizing a SQL database solution.
+2.	Fixed some front-end issues of user interface (separate beer list page/cleaner overall).
+3.  For a future project, maybe store the data utilizing a SQL database solution. I saved the data locally for this project.
+4.  Some input data validation on HTML when dealing with the beer data input got me thinking/was a hassle. HTML only has input type 'number'. It doesn´t accept decimal number as input. I searched for something called regex but seemed kind of confusing to implement. Sticked with input type text unfortunately. Will catch up with the concept later...
+5.  I was able to implement the buttons ‘Add Beer', 'Delete Last Added Beer' and 'Delete All Beers'. They´re all technically working but it would even greater if I was able to create a success message for each of the buttons. But they got a little buggy, for some reason.
 
 <h2>Conclusions</h2>
 
@@ -49,9 +55,9 @@ While working on this project and during Advanced Web Application course I learn
 
 This was what I could improve since the last version of the project. Above, the final screenshot of the app interface:
 
-<h3>Final interface screenshot</h3>
+<h3>Final interface screenshots</h3>
 
-***Thanks a lot for the valuable lessons and great academic term, Professor Marks. Hope to see you again/soon 🤞***
+***Thanks a lot for the valuable lessons and great academic term, Professor Marks. Hope to see you again/soon.***
 
 
 
