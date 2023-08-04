@@ -15,9 +15,9 @@ Final project for advanced web applications. The idea of the project is to creat
 
 <h2> Name of the technologies I used (Languages, Frameworks, Libraries, Programs, Other people's code)</h2>
 
-Programming languages used: HTML, CSS, and JavaScript.
+Programming languages used: JavaScript 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js)](https://skillicons.dev)
 
 Frameworks: Bootstrap, JQuery
 
@@ -34,10 +34,10 @@ PS: Icons for this README.md file taken from the website/source https://skillico
 During the development of the project, I encountered the following considerations/improvements for a nearby future/next web development project:
 
 1.	Further improvements to a more fluid user experience with modern web framework.
-2.	Fix some front-end spacing issues of user interface. 
+2.	Fixed some front-end issues of user interface (separate beer list page/cleaner overall).
 3.  For a future project, maybe store the data utilizing a SQL database solution.
-4.  Some input data validation on HTML when dealing with the beer data input got me thinking. HTML only has input type 'number'. It doesn´t accept decimal number as input. I search for something called regex but semmed kind confusing to implement. Sticked with input type text unfortunately. Will catch up
-    with the concept later on...
+4.  Some input data validation on HTML when dealing with the beer data input got me thinking/was a hassle. HTML only has input type 'number'. It doesn´t accept decimal number as input. I searched for something called regex but seemed kind of confusing to implement. Sticked with input type text unfortunately. Will catch up with the concept later...
+5.  I was able to implement the buttons ‘Create Beer', 'Delete Last Created Beer' and 'Delete All Beers'. They´re all technically working but it would even greater if I was able to create a success message for each of the buttons. But they got a little buggy, for some reason.
 
 <h2>Conclusions</h2>
 
