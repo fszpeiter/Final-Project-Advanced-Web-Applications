@@ -15,9 +15,13 @@ Final project for advanced web applications. The idea of the project is to creat
 
 <h2> Name of the technologies I used (Languages, Frameworks, Libraries, Programs, Other people's code)</h2>
 
+Markup Languages used: HTML5
+
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+
 Programming languages used: JavaScript 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 Frameworks: Bootstrap, JQuery
 
