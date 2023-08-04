@@ -1,5 +1,5 @@
 > [!NOTE]
->  Lots of uncharted territory was stepped on to get the ideas running. At least for me during this project. Hope you like it, Professor Marks.
+>  Lots of uncharted territory was stepped on to get the ideas running. At least for me during this project. Hope you like it, Professor Marks. 🤞
 
 # Final Project Advanced Web Applications: Beer Me Up!
 
