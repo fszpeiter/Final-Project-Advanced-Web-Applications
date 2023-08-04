@@ -1,48 +1,67 @@
-let beerData = [];
-
-function addBeer() {
-  const beerNameInput = document.getElementById("beer-name");
-  const beerStyleInput = document.getElementById("beer-style");
-  const beerBreweryInput = document.getElementById("beer-brewery");
-  const beerLocationInput = document.getElementById("beer-location");
-  const beerVolumeInput = document.getElementById("beer-volume");
-
-  const beerName = beerNameInput.value;
-  const beerStyle = beerStyleInput.value;
-  const beerBrewery = beerBreweryInput;
-  const beerLocation = beerLocationInput;
-  const beerVolume = beerVolumeInput;
-
-  if (beerName && beerStyle && beerBrewery && beerLocation && beerVolume) {
-    const beer = { name: beerName, style: beerStyle, brewery:beerBrewery, location:beerLocation, volume:beerVolume };
-    beerData.push(beer);
-
-    beerNameInput.value = "";
-    beerStyleInput.value = "";
-    beerBreweryInput.value = "";
-    beerLocationInput.value = "";
-    beerVolumeInput.value = "";
-    updateBeerList();
-  }
-}
-
-function updateBeerList() {
-  const beerList = document.getElementById("beer-items");
-  beerList.innerHTML = "";
-
-  beerData.forEach((beer) => {
-    const listItem = document.createElement("li");
-    listItem.textContent = `${beer.name},${beer.style},${beer.brewery},${beer.location},${beer.volume}`;
-    beerList.appendChild(listItem);
+// JavaScript to handle beer management functionalities
+$(document).ready(function() {
+    let beers = [];
+  
+    // Function to save beers to local storage
+    function saveBeersToLocalStorage() {
+      localStorage.setItem('beers', JSON.stringify(beers));
+    }
+  
+    // Function to load beers from local storage
+    function loadBeersFromLocalStorage() {
+      const storedBeers = localStorage.getItem('beers');
+      if (storedBeers) {
+        beers = JSON.parse(storedBeers);
+        renderBeerList();
+      }
+    }
+  
+    // Function to render the beer list
+    function renderBeerList() {
+      const beerList = $("#beerList");
+      beerList.empty();
+      beers.forEach((beer, index) => {
+        beerList.append(`<li class="list-group-item">${beer.name} - ${beer.type}</li>`);
+      });
+    }
+  
+    // Function to add a new beer
+    $("#beerForm").submit(function(event) {
+      event.preventDefault();
+      const beerName = $("#beerName").val();
+      const beerType = $("#beerType").val();
+      if (beerName && beerType) {
+        const newBeer = { name: beerName, type: beerType };
+        beers.push(newBeer);
+        saveBeersToLocalStorage();
+        renderBeerList();
+        $("#beerName").val("");
+        $("#beerType").val("");
+        showSuccessPopup('New beer added successfully!');
+      }
+    });
+  
+    // Load beers from local storage on page load
+    loadBeersFromLocalStorage();
+  
+    // Function to delete last created beer
+    $("#deleteLastBeerBtn").click(function() {
+      beers.pop();
+      saveBeersToLocalStorage();
+      renderBeerList();
+    });
+  
+    // Function to delete all beers
+    $("#deleteAllBeersBtn").click(function() {
+      beers = [];
+      saveBeersToLocalStorage();
+      renderBeerList();
+    });
   });
-}
 
-function showMessage() {
-  const modal = document.getElementById('messagePopup');
-  modal.style.display = 'block';
-}
 
-function closeMessage() {
-  const modal = document.getElementById('messagePopup');
-  modal.style.display = 'none';
-}
+
+  
+
+
+    

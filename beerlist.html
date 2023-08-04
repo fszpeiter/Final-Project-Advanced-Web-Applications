@@ -3,16 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Beer Management System - Add Beers</title>
+  <title>Beer Management System - Beer List</title>
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="container mt-4">
     
-    <!-- Navbar -->
+     <!-- Navbar -->
 
 <nav class="navbar navbar-expand-lg navbar-light bg-warning">
   <a class="navbar-brand" href="#">Beer Me Up!</a>
@@ -22,33 +20,29 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="index.html">Add Beers!</a>
-      </li>
       <li class="nav-item">
-        <a class="nav-link" href="beerlist.html">My beer list.</a>
+        <a class="nav-link" href="index.html">Add beers!</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="beerlist.html">My beer list</a>
       </li>
     </ul>
   </div>
 </nav>
 
+    <!-- Beer List -->
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <ul class="list-group" id="beerList">
+          <!-- Beers will be added here dynamically -->
+        </ul>
+      </div>
+    </div>
 
-    <!-- Add New Beer Form -->
+    <!-- "Back to Add Beers" button -->
     <div class="row mt-4">
       <div class="col-md-6 offset-md-3">
-        <form id="beerForm">
-          <div class="form-group">
-            <input type="text" class="form-control" id="beerName" placeholder="Beer Name" required>
-          </div>
-          <div class="form-group">
-            <input type="text" class="form-control" id="beerType" placeholder="Beer Type" required>
-          </div>
-          <button type="submit" class="btn btn-primary btn-block">Create Beer</button>
-        </form>
-        <!-- "Delete Last Created Beer" button -->
-        <button id="deleteLastBeerBtn" class="btn btn-danger btn-block mt-3">Delete Last Created Beer</button>
-        <!-- "Delete All Beers" button -->
-        <button id="deleteAllBeersBtn" class="btn btn-danger btn-block mt-3">Delete All Beers</button>
+        <a href="index.html" class="btn btn-primary btn-block">Back to Add Beers</a>
       </div>
     </div>
   </div>
