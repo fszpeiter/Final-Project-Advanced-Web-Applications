@@ -60,7 +60,7 @@ This was what I could improve since the last version of the project. Above, the 
 ![image](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/12e6ca95-be1f-4cc0-aa7e-07d4eb8fc2fa)
 <p> Add Beers! page which you can add your beer data to your beer list (Located on the 'My beer list' which you access on the menu.) </p>
 
-![image](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/03e5c23d-f0c6-44d9-84d7-cfc631e9e3cf)
+![image](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/037db532-e544-4959-887e-c103ac7f1e07)
 <p> My beer list! page which you can view all your added beer list information.</p>
 
 
