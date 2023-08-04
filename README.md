@@ -55,7 +55,13 @@ While working on this project and during Advanced Web Application course I learn
 
 This was what I could improve since the last version of the project. Above, the final screenshot of the app interface:
 
-<h3>Final interface screenshots</h3>
+<h3>Final interface/web application screenshots</h3>
+
+![image](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/10c2625e-ddc4-4bee-b7df-0d736b9cd536)
+< 'Add Beers!' page which you can add your beer data to your beer list (Located on the 'My beer list' which you access on the menu.)
+
+
+
 
 ***Thanks a lot for the valuable lessons and great academic term, Professor Marks. Hope to see you again/soon.***
 
