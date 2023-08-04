@@ -55,7 +55,7 @@ While working on this project and during Advanced Web Application course I learn
 
 This was what I could improve since the last version of the project. Above, the final screenshot of the app interface:
 
-<h3>Final interface screenshot</h3>
+<h3>Final interface screenshots</h3>
 
 ***Thanks a lot for the valuable lessons and great academic term, Professor Marks. Hope to see you again/soon.***
 
