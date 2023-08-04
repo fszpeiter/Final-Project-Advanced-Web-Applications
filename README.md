@@ -11,7 +11,7 @@ With this web application project, I wanted to explore front end concepts utiliz
 
 <h2>Code goal(s)/Ditto on SCOPE</h2>
 
-Final project for advanced web applications. The idea of the project is to create a working beer stock management system named Beer Me Up! It´s a dynamic paged web application that has a hamburger menu for navigation and when the user inputs all the data about a particular beer, that beer is stored on a dynamic list on another page. Also, when the beer is added to the list by clicking on the 'Add beer' button, the application has a confirmation pop up box that confirms that the informed beer has been stored on the beer list.
+Final project for advanced web applications. The idea of the project is to create a working beer stock management system named Beer Me Up! It´s a dynamic paged web application that has a hamburger menu for navigation and when the user inputs all the data about a particular beer, that beer is stored on a dynamic list on another page. 
 
 <h2> Name of the technologies I used (Languages, Frameworks, Libraries, Programs, Other people's code)</h2>
 
@@ -42,6 +42,7 @@ During the development of the project, I encountered the following consideration
 3.  For a future project, maybe store the data utilizing a SQL database solution. I saved the data locally for this project.
 4.  Some input data validation on HTML when dealing with the beer data input got me thinking/was a hassle. HTML only has input type 'number'. It doesn´t accept decimal number as input. I searched for something called regex but seemed kind of confusing to implement. Sticked with input type text unfortunately. Will catch up with the concept later...
 5.  I was able to implement the buttons ‘Add Beer', 'Delete Last Added Beer' and 'Delete All Beers'. They´re all technically working but it would even greater if I was able to create a success message for each of the buttons. But they got a little buggy, for some reason.
+6.  Wasn´t able to finish implementing a proper success popup message to the user when he presses the ‘Add Beer', 'Delete Last Added Beer' and 'Delete All Beers'. I got the ‘Add Beer' button to work with a message at some point but it bugged later on. Important point of learning for consideration.
 
 <h2>Conclusions</h2>
 
@@ -51,7 +52,8 @@ While working on this project and during Advanced Web Application course I learn
 - Web development framework concepts and syntax.
 - User experience (UX).
 - How to create a creative and proper README.md file (can´t deny it looks good and fun).
-- Overall lots of webs development knowledge that will be useful for my future career as an I.T professional. 
+- Overall lots of webs development knowledge that will be useful for my future career as an I.T professional.
+
 
 This was what I could improve since the last version of the project. Above, the final screenshot of the app interface:
 
