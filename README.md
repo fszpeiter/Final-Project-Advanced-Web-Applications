@@ -58,7 +58,7 @@ This was what I could improve since the last version of the project. Above, the 
 <h3>Final interface/web application screenshots</h3>
 
 ![image](https://github.com/fszpeiter/Final-Project-Advanced-Web-Applications/assets/39993307/10c2625e-ddc4-4bee-b7df-0d736b9cd536)
-<p> Add Beers!' page which you can add your beer data to your beer list (Located on the 'My beer list' which you access on the menu.) </p>
+<p> Add Beers! page which you can add your beer data to your beer list (Located on the 'My beer list' which you access on the menu.) </p>
 
 
 
