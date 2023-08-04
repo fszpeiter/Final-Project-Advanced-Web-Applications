@@ -57,7 +57,7 @@ This was what I could improve since the last version of the project. Above, the 
 
 <h3>Final interface screenshot</h3>
 
-***Thanks a lot for the valuable lessons and great academic term, Professor Marks. Hope to see you again/soon 🤞***
+***Thanks a lot for the valuable lessons and great academic term, Professor Marks. Hope to see you again/soon***
 
 
 
