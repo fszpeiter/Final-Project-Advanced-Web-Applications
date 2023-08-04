@@ -42,7 +42,7 @@ During the development of the project, I encountered the following consideration
 3.  For a future project, maybe store the data utilizing a SQL database solution. I saved the data locally for this project.
 4.  Some input data validation on HTML when dealing with the beer data input got me thinking/was a hassle. HTML only has input type 'number'. It doesn´t accept decimal number as input. I searched for something called regex but seemed kind of confusing to implement. Sticked with input type text unfortunately. Will catch up with the concept later...
 5.  I was able to implement the buttons ‘Add Beer', 'Delete Last Added Beer' and 'Delete All Beers'. They´re all technically working but it would even greater if I was able to create a success message for each of the buttons. But they got a little buggy, for some reason.
-6.  Wasn´t able to finish implementing a proper success popup message to the user when he presses the ‘Add Beer', 'Delete Last Added Beer' and 'Delete All Beers'. I got the ‘Add Beer' button to work with a message at some point but it bugged later on. Important point of learning for consideration.
+6.  Wasn´t able to finish implementing a proper success popup message to the user when he presses the ‘Add Beer', 'Delete Last Added Beer' and 'Delete All Beers'. I got the ‘Add Beer' button to work with a message at some point but it bugged later. Important point of learning for consideration.
 
 <h2>Conclusions</h2>
 
