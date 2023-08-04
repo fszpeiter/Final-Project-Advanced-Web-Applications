@@ -41,7 +41,7 @@ During the development of the project, I encountered the following consideration
 2.	Fixed some front-end issues of user interface (separate beer list page/cleaner overall).
 3.  For a future project, maybe store the data utilizing a SQL database solution.
 4.  Some input data validation on HTML when dealing with the beer data input got me thinking/was a hassle. HTML only has input type 'number'. It doesn´t accept decimal number as input. I searched for something called regex but seemed kind of confusing to implement. Sticked with input type text unfortunately. Will catch up with the concept later...
-5.  I was able to implement the buttons ‘Create Beer', 'Delete Last Created Beer' and 'Delete All Beers'. They´re all technically working but it would even greater if I was able to create a success message for each of the buttons. But they got a little buggy, for some reason.
+5.  I was able to implement the buttons ‘Add Beer', 'Delete Last Added Beer' and 'Delete All Beers'. They´re all technically working but it would even greater if I was able to create a success message for each of the buttons. But they got a little buggy, for some reason.
 
 <h2>Conclusions</h2>
 
