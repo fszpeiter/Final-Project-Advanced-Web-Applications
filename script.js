@@ -21,7 +21,7 @@ $(document).ready(function() {
       const beerList = $("#beerList");
       beerList.empty();
       beers.forEach((beer, index) => {
-        beerList.append(`<li class="list-group-item">${beer.name} - ${beer.type}</li>`);
+        beerList.append(`<li class="list-group-item">${beer.name},${beer.style},${beer.abv}%,${beer.ibu}%,${beer.volume} fl oz,${beer.date}</li>`);
       });
     }
   
@@ -29,15 +29,22 @@ $(document).ready(function() {
     $("#beerForm").submit(function(event) {
       event.preventDefault();
       const beerName = $("#beerName").val();
-      const beerType = $("#beerType").val();
-      if (beerName && beerType) {
-        const newBeer = { name: beerName, type: beerType };
+      const beerStyle = $("#beerStyle").val();
+      const beerABV = $("#beerABV").val();
+      const beerIBU = $("#beerIBU").val();
+      const beerVolume = $("#beerVolume").val();
+      const beerDate = $("#beerDatetime").val();
+      if (beerName && beerStyle) {
+        const newBeer = { name: beerName, style: beerStyle, abv: beerABV, ibu: beerIBU, volume: beerVolume, date: beerDate };
         beers.push(newBeer);
         saveBeersToLocalStorage();
         renderBeerList();
         $("#beerName").val("");
-        $("#beerType").val("");
-        showSuccessPopup('New beer added successfully!');
+        $("#beerStyle").val("");
+        $("#beerABV").val("");
+        $("#beerIBU").val("");
+        $("#beerVolume").val("");
+        $("#beerDateTime").val("");
       }
     });
   

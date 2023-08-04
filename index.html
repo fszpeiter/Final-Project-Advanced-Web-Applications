@@ -32,7 +32,6 @@
   </div>
 </nav>
 
-
     <!-- Add New Beer Form -->
     <div class="row mt-4">
       <div class="col-md-6 offset-md-3">
@@ -41,7 +40,19 @@
             <input type="text" class="form-control" id="beerName" placeholder="Beer Name" required>
           </div>
           <div class="form-group">
-            <input type="text" class="form-control" id="beerType" placeholder="Beer Type" required>
+            <input type="text" class="form-control" id="beerStyle" placeholder="Beer Style" required>
+          </div>
+          <div class="form-group">
+            <input type="text"  min="1" max="100"  class="form-control" id="beerABV" placeholder="Beer ABV (Alcohol by volume)" required>
+          </div>
+          <div class="form-group">
+            <input type="text"  min="1" class="form-control" id="beerIBU" placeholder="Beer IBU (International Bitterness Units) " required>
+          </div>
+          <div class="form-group">
+            <input type="text" min="1" class="form-control" id="beerVolume" placeholder="Beer Volume (Total Volume of Specific Beer) " required>
+          </div>
+          <div class="form-group">
+            <input type="datetime" class="form-control" id="beerDatetime" placeholder="Date Time of Item Registration" required>
           </div>
           <button type="submit" class="btn btn-primary btn-block">Create Beer</button>
         </form>
