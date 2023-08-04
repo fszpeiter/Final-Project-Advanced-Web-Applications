@@ -21,7 +21,7 @@ $(document).ready(function() {
       const beerList = $("#beerList");
       beerList.empty();
       beers.forEach((beer, index) => {
-        beerList.append(`<li class="list-group-item">${beer.name},${beer.style},${beer.abv}%,${beer.ibu}%,${beer.volume} fl oz,${beer.date}</li>`);
+        beerList.append(`<li class="list-group-item">${beer.name},${beer.style},${beer.brewery},${beer.abv}%,${beer.ibu}%,${beer.volume} fl oz,${beer.date}</li>`);
       });
     }
   
@@ -30,12 +30,13 @@ $(document).ready(function() {
       event.preventDefault();
       const beerName = $("#beerName").val();
       const beerStyle = $("#beerStyle").val();
+      const beerBrewery = $("#beerBrewery").val();
       const beerABV = $("#beerABV").val();
       const beerIBU = $("#beerIBU").val();
       const beerVolume = $("#beerVolume").val();
       const beerDate = $("#beerDatetime").val();
       if (beerName && beerStyle) {
-        const newBeer = { name: beerName, style: beerStyle, abv: beerABV, ibu: beerIBU, volume: beerVolume, date: beerDate };
+        const newBeer = { name: beerName, style: beerStyle, abv: beerABV, ibu: beerIBU, volume: beerVolume, date: beerDate , brewery: beerBrewery};
         beers.push(newBeer);
         saveBeersToLocalStorage();
         renderBeerList();
