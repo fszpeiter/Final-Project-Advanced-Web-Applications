@@ -36,7 +36,8 @@ During the development of the project, I encountered the following consideration
 1.	Further improvements to a more fluid user experience with modern web framework.
 2.	Fix some front-end spacing issues of user interface. 
 3.  For a future project, maybe store the data utilizing a SQL database solution.
-4.  Some input data validation on HTML when dealing with the beer data input got me thinking. HTML only has input type 'number'. It doesn´t accept decimal number as input. I search for something called regex but semmed kind confusing to implement. Sticked with input type text unfortunately.
+4.  Some input data validation on HTML when dealing with the beer data input got me thinking. HTML only has input type 'number'. It doesn´t accept decimal number as input. I search for something called regex but semmed kind confusing to implement. Sticked with input type text unfortunately. Will catch up
+    with the concept later on...
 
 <h2>Conclusions</h2>
 
